@@ -1,2 +1,0 @@
-# LetsUpgrade-Java-Essentials
-java
